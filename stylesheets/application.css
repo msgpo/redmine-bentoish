@@ -1327,3 +1327,19 @@ a.buy-button.blue {
 #title h2, #buttons, #title h1 {
   min-width: 550px !important;
 }
+
+/* line 2, ../sass/_diary.scss */
+tr.time-entry td.Green {
+  background: url(../images/bullet_green.png) no-repeat center center;
+  text-indent: -9999px;
+}
+/* line 6, ../sass/_diary.scss */
+tr.time-entry td.Amber {
+  background: url(../images/bullet_amber.png) no-repeat center center;
+  text-indent: -9999px;
+}
+/* line 10, ../sass/_diary.scss */
+tr.time-entry td.Red {
+  background: url(../images/bullet_red.png) no-repeat center center;
+  text-indent: -9999px;
+}
