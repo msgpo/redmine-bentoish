@@ -340,31 +340,27 @@ div.contact.details, div.deal.details {
   margin-top: 45px;
   padding: 15px;
 }
-/* line 285, ../sass/application.scss */
-#footer .bgl .bgr:after {
-  content: " and gitmike theme";
-}
 
-/* line 294, ../sass/application.scss */
+/* line 286, ../sass/application.scss */
 h2, h3, h4 {
   border-bottom: 0px;
 }
 
-/* line 299, ../sass/application.scss */
+/* line 291, ../sass/application.scss */
 .wiki h1, .wiki h2, .wiki h3 {
   border-bottom: 0px;
 }
-/* line 303, ../sass/application.scss */
+/* line 295, ../sass/application.scss */
 .wiki.wiki-page h1 {
   border-bottom: 1px solid #ccc;
 }
-/* line 306, ../sass/application.scss */
+/* line 298, ../sass/application.scss */
 .wiki.wiki-page > h2 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
 }
 
-/* line 315, ../sass/application.scss */
+/* line 307, ../sass/application.scss */
 #main-menu {
   left: 0px;
   width: 100%;
@@ -383,7 +379,7 @@ h2, h3, h4 {
   margin-right: 0;
   position: relative;
 }
-/* line 330, ../sass/application.scss */
+/* line 322, ../sass/application.scss */
 #main-menu ul {
   *zoom: 1;
   margin-top: 0;
@@ -400,12 +396,12 @@ h2, h3, h4 {
 #main-menu ul:after {
   clear: both;
 }
-/* line 339, ../sass/application.scss */
+/* line 331, ../sass/application.scss */
 #main-menu ul li {
   margin: 0;
   padding: 0;
 }
-/* line 343, ../sass/application.scss */
+/* line 335, ../sass/application.scss */
 #main-menu ul li a {
   background-color: transparent !important;
   display: block;
@@ -419,7 +415,7 @@ h2, h3, h4 {
   height: 20px;
   line-height: 20px;
 }
-/* line 356, ../sass/application.scss */
+/* line 348, ../sass/application.scss */
 #main-menu ul li a.selected {
   color: #000;
   border-bottom: 2px solid #D26911 !important;
@@ -431,11 +427,11 @@ h2, h3, h4 {
   background-image: linear-gradient(#fcfcfc, #ebebeb);
   background-repeat: repeat-x;
 }
-/* line 362, ../sass/application.scss */
+/* line 354, ../sass/application.scss */
 #main-menu ul li a.selected:hover {
   color: #000;
 }
-/* line 366, ../sass/application.scss */
+/* line 358, ../sass/application.scss */
 #main-menu ul li a:hover {
   color: #669900;
   border-bottom: 2px solid #CFDCE8;
@@ -932,7 +928,7 @@ option {
   font-size: 12px;
 }
 
-/* line 385, ../sass/application.scss */
+/* line 377, ../sass/application.scss */
 .box {
   background-color: #fcfcfc;
   -webkit-border-radius: 8px;
@@ -941,23 +937,23 @@ option {
   padding: 16px;
 }
 
-/* line 391, ../sass/application.scss */
+/* line 383, ../sass/application.scss */
 img.gravatar {
   -webkit-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05);
   box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05);
 }
 
-/* line 396, ../sass/application.scss */
+/* line 388, ../sass/application.scss */
 .wiki img {
   max-width: 100%;
 }
-/* line 399, ../sass/application.scss */
+/* line 391, ../sass/application.scss */
 .wiki table img {
   width: 100%;
 }
 
-/* line 404, ../sass/application.scss */
+/* line 396, ../sass/application.scss */
 div.wiki pre, .wiki pre {
   padding: 6px 10px;
   -webkit-border-radius: 3px;
@@ -965,12 +961,12 @@ div.wiki pre, .wiki pre {
   border-radius: 3px;
 }
 
-/* line 409, ../sass/application.scss */
+/* line 401, ../sass/application.scss */
 .controller-wiki div#content > div.contextual {
   margin-top: 3px;
 }
 
-/* line 413, ../sass/application.scss */
+/* line 405, ../sass/application.scss */
 div#content > div.wiki {
   padding-top: 15px;
 }
@@ -1024,34 +1020,34 @@ ul.projects a.project {
   font-size: 1.1em;
 }
 
-/* line 419, ../sass/application.scss */
+/* line 411, ../sass/application.scss */
 div.journal .details {
   border: 1px solid white;
 }
-/* line 421, ../sass/application.scss */
+/* line 413, ../sass/application.scss */
 div.journal .details:hover {
   background: #FFD;
   border: 1px solid silver !important;
 }
 
-/* line 427, ../sass/application.scss */
+/* line 419, ../sass/application.scss */
 #context-menu {
   -webkit-box-shadow: 0 0 3px #cccccc;
   -moz-box-shadow: 0 0 3px #cccccc;
   box-shadow: 0 0 3px #cccccc;
 }
-/* line 429, ../sass/application.scss */
+/* line 421, ../sass/application.scss */
 #context-menu ul li ul {
   -webkit-box-shadow: 0 0 3px #cccccc;
   -moz-box-shadow: 0 0 3px #cccccc;
   box-shadow: 0 0 3px #cccccc;
 }
-/* line 432, ../sass/application.scss */
+/* line 424, ../sass/application.scss */
 #context-menu li:hover {
   border: 1px solid #eee !important;
   background-color: #eee;
 }
-/* line 436, ../sass/application.scss */
+/* line 428, ../sass/application.scss */
 #context-menu ul {
   border-top: 1px solid #DDD;
   border-left: 1px solid #DDD;
@@ -1059,7 +1055,7 @@ div.journal .details:hover {
   border-right: 1px solid #DDD !important;
 }
 
-/* line 444, ../sass/application.scss */
+/* line 436, ../sass/application.scss */
 div.tooltip:hover span.tip {
   border: 1px solid #D9D9D9;
   zoom: 1;
@@ -1068,22 +1064,22 @@ div.tooltip:hover span.tip {
   box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.05);
 }
 
-/* line 451, ../sass/application.scss */
+/* line 443, ../sass/application.scss */
 table.progress td.closed {
   background: #AECCD7 none repeat scroll 0%;
 }
-/* line 454, ../sass/application.scss */
+/* line 446, ../sass/application.scss */
 table.progress td.done {
   background: #EAF2F5 none repeat scroll 0%;
 }
 
-/* line 459, ../sass/application.scss */
+/* line 451, ../sass/application.scss */
 #history div.journal {
   border-top: 1px solid #DDD;
 }
 
 /* Modal form*/
-/* line 465, ../sass/application.scss */
+/* line 457, ../sass/application.scss */
 div.modal {
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
@@ -1094,13 +1090,13 @@ div.modal {
   -moz-box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
-/* line 466, ../sass/application.scss */
+/* line 458, ../sass/application.scss */
 div.modal h3.title {
   background: transparent;
   color: inherit;
 }
 
-/* line 476, ../sass/application.scss */
+/* line 468, ../sass/application.scss */
 #modalbg {
   background: white;
   opacity: 0.75;
@@ -1168,12 +1164,12 @@ body.action-login #login-form table {
   font-weight: bold;
 }
 
-/* line 485, ../sass/application.scss */
+/* line 477, ../sass/application.scss */
 div.filters .live_search {
   margin-left: 11px !important;
 }
 
-/* line 489, ../sass/application.scss */
+/* line 481, ../sass/application.scss */
 input.live_search_field {
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
@@ -1186,12 +1182,12 @@ input.live_search_field {
   border: 1px solid #C3C3C3;
 }
 
-/* line 497, ../sass/application.scss */
+/* line 489, ../sass/application.scss */
 .live_search input.live_search_field {
   font-size: 12px !important;
 }
 
-/* line 501, ../sass/application.scss */
+/* line 493, ../sass/application.scss */
 label#search_overlabel {
   font-size: 12px !important;
   padding-left: 12px !important;
@@ -1200,42 +1196,42 @@ label#search_overlabel {
   top: 11px !important;
 }
 
-/* line 510, ../sass/application.scss */
+/* line 502, ../sass/application.scss */
 table.contacts.index tbody tr:hover {
   background-color: #EFF5F8 !important;
 }
-/* line 513, ../sass/application.scss */
+/* line 505, ../sass/application.scss */
 table.contacts.index tbody tr.context-menu-selection:hover {
   background-color: #507AAA !important;
 }
 
-/* line 518, ../sass/application.scss */
+/* line 510, ../sass/application.scss */
 h2 span.tag {
   letter-spacing: 0px;
   top: -4px;
   position: relative;
 }
-/* line 522, ../sass/application.scss */
+/* line 514, ../sass/application.scss */
 h2 span.tag a {
   margin-bottom: -1px;
 }
 
-/* line 527, ../sass/application.scss */
+/* line 519, ../sass/application.scss */
 div.filters .live_search {
   letter-spacing: 0px;
 }
 
-/* line 531, ../sass/application.scss */
+/* line 523, ../sass/application.scss */
 label#search_overlabel {
   margin-top: -4px;
 }
 
-/* line 535, ../sass/application.scss */
+/* line 527, ../sass/application.scss */
 .live_search input.live_search_field {
   margin-top: -6px;
 }
 
-/* line 540, ../sass/application.scss */
+/* line 532, ../sass/application.scss */
 span.tag a, span.deal-status {
   color: white;
   text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
@@ -1258,43 +1254,43 @@ span.tag a, span.deal-status {
   -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.3);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.3);
 }
-/* line 558, ../sass/application.scss */
+/* line 550, ../sass/application.scss */
 span.tag a:hover {
   text-shadow: none;
 }
-/* line 561, ../sass/application.scss */
+/* line 553, ../sass/application.scss */
 span.deal-status a:hover {
   color: black;
   text-shadow: none;
 }
 
-/* line 568, ../sass/application.scss */
+/* line 560, ../sass/application.scss */
 body.controller-contacts #content, body.controller-notes #content, body.controller-contacts_tasks #content, body.controller-contacts_duplicates #content, body.controller-sale_funel #content, body.controller-deals #content {
   margin-right: 340px;
 }
-/* line 571, ../sass/application.scss */
+/* line 563, ../sass/application.scss */
 body.controller-contacts #sidebar, body.controller-notes #sidebar, body.controller-contacts_tasks #sidebar, body.controller-contacts_duplicates #sidebar, body.controller-sale_funel #sidebar, body.controller-deals #sidebar {
   width: 300px !important;
 }
 
-/* line 579, ../sass/application.scss */
+/* line 571, ../sass/application.scss */
 table.invoice-lines tbody tr.line-data:hover {
   background-color: #EFF5F8 !important;
 }
-/* line 582, ../sass/application.scss */
+/* line 574, ../sass/application.scss */
 table.invoice-lines th {
   border: 0px !important;
 }
 
-/* line 588, ../sass/application.scss */
+/* line 580, ../sass/application.scss */
 span.invoice-status.draft {
   background-color: #AAA !important;
 }
-/* line 591, ../sass/application.scss */
+/* line 583, ../sass/application.scss */
 span.invoice-status.sent {
   background-color: #3F8AF7 !important;
 }
-/* line 594, ../sass/application.scss */
+/* line 586, ../sass/application.scss */
 span.invoice-status.paid {
   background-color: green !important;
 }
